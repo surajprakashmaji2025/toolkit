@@ -13,11 +13,11 @@ https://www.kaggle.com/datasets/sridipbasu/ai-depndency-career-anxiety-and-stude
 **Column analysed:** burnout_score (n = 200 random samples)
 
 **Contents:**
-1. PDF Plot — KDE curve of the data
-2. Fitted Normal Distribution — red curve overlay + goodness of fit
-3. Q-Q Plot — visual normality check
-4. Normality Tests — Shapiro-Wilk, Kolmogorov-Smirnov, Anderson-Darling
-5. Conclusion — interpretation of results
+1. PDF Plot , KDE curve of the data
+2. Fitted Normal Distribution , red curve overlay + goodness of fit
+3. Q-Q Plot , visual normality check
+4. Normality Tests , Shapiro-Wilk, Kolmogorov-Smirnov, Anderson-Darling
+5. Conclusion , interpretation of results
 
 **Results Summary:**
 | Test | Statistic | p-value |
@@ -34,9 +34,9 @@ https://www.kaggle.com/datasets/sridipbasu/ai-depndency-career-anxiety-and-stude
 **Dataset:** AI Student Impact Dataset (50,000 students)
 
 **Tests performed:**
-1. One-Sample t-Test — Skill Retention Score vs benchmark (75)
-2. Two-Sample t-Test — Anxiety Level: Paid vs Non-Paid subscribers
-3. Paired t-Test — Pre vs Post Semester GPA after AI tool use
+1. One-Sample t-Test , Skill Retention Score vs benchmark (75)
+2. Two-Sample t-Test , Anxiety Level: Paid vs Non-Paid subscribers
+3. Paired t-Test , Pre vs Post Semester GPA after AI tool use
 
 **Results Summary:**
 | Test | t-statistic | p-value | Decision |
