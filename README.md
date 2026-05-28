@@ -4,7 +4,7 @@
 
 ---
 
-## Toolkit 1 — Normality Test
+## Toolkit 1  Normality Test
 **File:** Normality_toolkit.ipynb
 
 **Dataset:** AI Dependency, Career Anxiety and Student Burnout
@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/sridipbasu/ai-depndency-career-anxiety-and-stude
 
 ---
 
-## Toolkit 2 — T-Test Toolkit
+## Toolkit 2  T-Test Toolkit
 **File:** ttest_toolkit.ipynb
 
 **Dataset:** AI Student Impact Dataset (50,000 students)
